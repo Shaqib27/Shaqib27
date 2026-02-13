@@ -12,9 +12,9 @@
 
 <br>
 <hr>
-💫 About Me:
+
 👋 Hi, I'm Shaqib Hussain  
-🎓 PG-DBDA | GATE 2025 Qualified  
+🎓 B.tech(CSE) | PG-DBDA | GATE 2025 Qualified  
 
 🚀 Big Data | AI/ML | Spark | LLM | RAG  
 
