@@ -7,7 +7,15 @@
 <br>
 <hr>
 💫 About Me:
-👋 Hi, I’m @Shaqib27<br>👀 I’m interested in innovating things.<br>🌱 I’m currently working with programming languages c,c++,python.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:- mdshaqib246@gmail.com<br>🚀 I’m currently open for an Intern or a new opportunity, 
+👋 Hi, I'm Shaqib Hussain  
+🎓 PG-DBDA | GATE 2025 Qualified  
+
+🚀 Big Data | AI/ML | Spark | LLM | RAG  
+
+💻 Python • SQL • Hadoop • Spark • Kafka • Airflow  
+🤖 Deep Learning • Transformers • Machine Learning  
+
+📫 mdshaqibhussain5@gmail.com  
 
 
 
