@@ -19,7 +19,8 @@
 🚀 Big Data | AI/ML | Spark | LLM | RAG  
 
 💻 Python • SQL • Hadoop • Spark • Kafka 
-🤖 Deep Learning • Transformers • Machine Learning  
+
+🤖 Deep Learning • Transformers • Machine Learning  • CNN
 
 📫 mdshaqibhussain5@gmail.com  
 
